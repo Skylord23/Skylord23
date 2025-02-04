@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working on conversational AI and CpaaS/SaaS product. <br><br>Have previously worked with Aviation and BFSI organizations for their customer interaction initiatives through Voice/SMS/Email/WhatsApp/App Notifications.<br><br>Love solving real world business problems using first principles and agile thinking methodology. 
+I am currently working on conversational AI and CpaaS/SaaS products. <br><br>Have previously worked with Aviation and BFSI organizations for their customer interaction initiatives through Voice/SMS/Email/WhatsApp/App Notifications.<br><br>Love solving real world business problems using first principles and agile thinking methodology. 
 
 
 ## 🌐 Socials:
